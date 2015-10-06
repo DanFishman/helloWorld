@@ -1,2 +1,2 @@
 # helloWorld
-hello project
+hello project getting started
